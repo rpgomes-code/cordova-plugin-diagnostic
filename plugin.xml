@@ -274,10 +274,6 @@
 
         <source-file src="src/android/Diagnostic.java" target-dir="src/cordova/plugins" />
 
-        <preference name="ANDROIDX_VERSION" default="1.+" />
-        <framework src="androidx.legacy:legacy-support-v4:$ANDROIDX_VERSION" />
-        <framework src="androidx.appcompat:appcompat:$ANDROIDX_VERSION" />
-
         <!--BEGIN_MODULE LOCATION-->
         <config-file target="config.xml" parent="/*">
             <feature name="Diagnostic_Location" >

@@ -32,8 +32,8 @@ import org.apache.cordova.CordovaWebView;
 import org.json.JSONArray;
 import org.json.JSONException;
 
-import androidx.core.app.NotificationManagerCompat;
-
+//import androidx.core.app.NotificationManagerCompat;
+import android.support.v4.app.NotificationManagerCompat;
 /**
  * Diagnostic plugin implementation for Android
  */

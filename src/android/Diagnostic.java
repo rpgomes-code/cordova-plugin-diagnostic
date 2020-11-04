@@ -53,8 +53,6 @@ import android.content.Intent;
 import android.content.pm.PackageManager;
 import android.provider.Settings;
 
-
-//import androidx.core.app.ActivityCompat;
 import android.support.v4.app.ActivityCompat;
 /**
  * Diagnostic plugin implementation for Android
